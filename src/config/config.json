@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Nextplate",
+    "title": "Northwind Dragonboat",
     "base_url": "https://nextplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "27",
-    "logo_text": "Nextplate"
+    "favicon": "/images/Northwind201.png",
+    "logo": "/images/Northwind201.png",
+    "logo_darkmode": "/images/Northwind201.png",
+    "logo_width": "250",
+    "logo_height": "150",
+    "logo_text": "Northwind Dragonboat"
   },
 
   "settings": {
@@ -40,8 +40,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_author": "Northwind",
+    "meta_image": "/images/Northwind201.png",
+    "meta_description": "Northwind Dragonboat"
   }
 }
